@@ -24,7 +24,7 @@
     "DO_BASE_DAMAGE": true,
     "WIDTH": 6500,
     "HEIGHT": 6500,
-    "MODE": "ffa",
+    "MODE": "4tdm",
     "TEAMS": 4,
     "RANDOM_COLORS": false,
     "ARENA_TYPE": "rect",
@@ -49,7 +49,7 @@
         ["norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm", "norm"],
         ["norm", "norm", "norm", "norm", "norm", "norm", "roid", "norm", "norm", "norm", "norm", "norm"]
     ],
-    "X_GRID": 16,
+    "X_GRID": 24,
     "Y_GRID": 16,
     "DAMAGE_CONSTANT": 0.5,
     "KNOCKBACK_CONSTANT": 1.5,
